@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Full Stack developer 👨‍💻 | Mobile App Developer 📲 | Researcher 📚</h3>
 <br>
 
-<img align="right" alt="coding" width="300" src="https://www.pinterest.com/pin/pinterest--311381761734186207/" >
+<img align="right" alt="coding" width="800" height="600" src="https://www.pinterest.com/pin/pinterest--311381761734186207" >
 
 
 
