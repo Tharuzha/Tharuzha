@@ -9,13 +9,15 @@
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" >
 
 
-- 🌱 I’m currently studying at **General Sir John Kotelawala Defence University**
+- 🎓 I’m currently studying at **General Sir John Kotelawala Defence University**
 
 - 👨‍💻 I'm interested in **Mobile App Development,Testing frameworks, Automation Tools ..**
 
 - 💬 Ask me about **Java, Python, Flutter, MySQL, MERN Stack**
 
 - 📫 How to reach me **tharushagunawardana428@gmail.com**
+
+- 📚 See my publications **https://www.researchgate.net/profile/Tharusha-Gunawardhana**
 <br>
 
 
@@ -28,6 +30,7 @@
 <a href="https://www.linkedin.com/in/tharusha-gunawardhana-9b8298235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tharusha-gunawardhana-9b8298235/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tharusha.gunawardana.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharusha gunawardhana" height="30" width="40" /></a>
 <a href="https://www.instagram.com/th4ruz?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="th4uz" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Tharusha-Gunawardhana" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="tharusha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
