@@ -19,14 +19,14 @@
 - 📫 How to reach me **tharushagunawardana428@gmail.com**
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharuzha" alt="tharuzha" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/tharusha_00" target="blank"><img src="https://img.shields.io/twitter/follow/tharusha_00?logo=twitter&style=for-the-badge" alt="tharusha_00" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tharusha_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharusha_00" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tharusha-gunawardhana-9b8298235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tharusha-gunawardhana-9b8298235/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tharusha-gunawardhana-9b8298235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tharusha-gunawardhana-9b8298235/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
