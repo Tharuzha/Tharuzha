@@ -6,8 +6,7 @@
 <h3 align="center">Passionate Full Stack developer 👨‍💻 | Mobile App Developer 📲 | Researcher 📚</h3>
 <br>
 
-<img align="right" alt="coding" width="300" src="<iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="300"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p>">
-
+<img align="right" alt="coding" width="300" src="https://github.com/Kawyanethma/Kawyanethma/assets/92635894/1bec9c78-c6a2-4dff-8889-92353b3abae4" >
 
 
 - 🌱 I’m currently learning at **General Sir John Kotelawala Defence University**
