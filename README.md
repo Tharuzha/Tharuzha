@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Full Stack developer 👨‍💻 | Mobile App Developer 📲 | Researcher 📚</h3>
 <br>
 
-<img align="right" alt="coding" width="300" src="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD" >
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" >
 
 
 - 🌱 I’m currently learning at **General Sir John Kotelawala Defence University**
