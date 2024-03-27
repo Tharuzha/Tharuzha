@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Full Stack developer 👨‍💻 | Mobile App Developer 📲 | Researcher 📚</h3>
 <br>
 
-<img align="right" alt="coding" width="300" src="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">
+<img align="right" alt="coding" width="300" src="<iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="300"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p>">
 
 
 
