@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" >
 
 
-- 🌱 I’m currently learning at **General Sir John Kotelawala Defence University**
+- 🌱 I’m currently studying at **General Sir John Kotelawala Defence University**
 
 - 👨‍💻 I'm interested in **Mobile App Development,Testing frameworks, Automation Tools ..**
 
@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
