@@ -13,7 +13,7 @@
 
 - 👨‍💻 I'm interested in **Mobile App Development,Testing frameworks, Automation Tools ..**
 
-- 💬 Ask me about **Java, Python, Flutter, MySQL, MERN Stack**
+- 💬 Ask me about **Java, Python, Flutter, Android, MySQL, MERN Stack**
 
 - 📫 How to reach me **tharushagunawardana428@gmail.com**
 
