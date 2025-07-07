@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tharusha+Gunawardhana!;" />
 </h1>
 
-<h3 align="center">Passionate Full Stack developer 👨‍💻 | Mobile App Developer 📲 | Researcher 📚</h3>
+<h3 align="center">Passionate Quality Engineer 👨‍💻 | Content Creator 📲 | Researcher 📚</h3>
 <br>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" >
@@ -11,9 +11,11 @@
 
 - 🎓 I’m currently studying at **General Sir John Kotelawala Defence University**
 
-- 👨‍💻 I'm interested in **Mobile App Development,Testing frameworks, Automation Tools ..**
+- 👨‍💻 I'm working at **iClick Online Technology (PVT) Ltd**
 
-- 💬 Ask me about **Java, Python, Flutter, Android, MySQL, MERN Stack**
+- 👨‍💻 I'm interested in **Test automation ,Testing frameworks, TestOps, Generative AI, Performance/ Security/ ETL Testing, AI Agentic Solutions..**
+
+- 💬 Ask me about **Java, Kotlin, Postman, Rest Assured, Playwright, CI/CD for QE ..**
 
 - 📫 How to reach me **tharushagunawardana428@gmail.com**
 
