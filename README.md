@@ -15,7 +15,7 @@
 
 - 👨‍💻 I'm interested in **Test automation ,Testing frameworks, TestOps, Generative AI, Performance/ Security/ ETL Testing, AI Agentic Solutions..**
 
-- 💬 Ask me about **Java, Kotlin, Postman, Rest Assured, Playwright, CI/CD for QE ..**
+- 💬 Ask me about **Java, Kotlin, Postman, API Testing, Rest Assured, Playwright, CI/CD for QE ..**
 
 - 📫 How to reach me **tharushagunawardana428@gmail.com**
 
